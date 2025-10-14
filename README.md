@@ -18,7 +18,9 @@ I'm a Data Science & Machine Learning student at Red River College with a passio
 
 ### 🌩️ Cloud & DevOps
 - **Microsoft Azure Fundamentals (AZ-900)** – 2024
+- **Microsoft Azure Security Fundamentals (SC-900)** - 2024
 - **Microsoft Azure AI Fundamentals (AI-900)** – 2025
+- **Microsoft Azure Data Fundamentals (DP-900)** - *In Progress* (Expected Start Dec 2025)
 - **AWS Academy Data Engineering** – *In Progress* (Expected Nov 2025)
 
 ### 🤖 Artificial Intelligence & Data
@@ -29,7 +31,9 @@ I'm a Data Science & Machine Learning student at Red River College with a passio
 
 ### 🔐 Cybersecurity & Blockchain
 - **ICTC Cybersecurity Fundamentals** – 2025
-- **ICTC Blockchain, Telecom, IoT & 5G (TIO5)** – 2025
+- **ICTC Blockchain Fundamentals** - 2025
+- **ICTC Artificial Intelligence Fundamentals** - 2025
+- **ICTC Telecom, IoT & 5G (TIO5) Fundamentals** – 2025
 - **Cyber Range Certificate** – 2025
 
 ### 📊 Business & Communication
