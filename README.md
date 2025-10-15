@@ -89,4 +89,5 @@ _Aug 2024 – Apr 2026 (Expected)_
 
 ---
 
-> *“Data is the new oil — I’m here to refine it.”*
+> *“Torture the data, and it will confess to anything.”*
+> - Ronald Coase
