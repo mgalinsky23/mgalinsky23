@@ -14,14 +14,37 @@ I'm a Data Science & Machine Learning student at Red River College with a passio
 
 ---
 
+## 🎓 Work Experience
+
+**Co-op Student**  
+CanAI Garage at Shared Services Canada, Winnipeg, MB - _Hybrid_
+_Jan 2026 – Apr 2026 (Expected)_  
+- Researched and proposed a technical model for an audit log, successfully implementing it using Django and PostgreSQL to enhance data tracking within the application.
+- Contributed to the development of an MVP by maintaining frontend and backend data flow, ensuring assigned features remained functional and synced with the core database.
+- Acted as scrum master for a team of 4, facilitating daily stand-ups and using Azure DevOps and MS Teams to keep project and personal sprint tasks on track.
+- Managed code updates and branching across Azure DevOps and GitHub using Git in VS Code, while utilizing Docker to ensure a consistent development environment.
+
+---
+
+## 🎓 Education
+
+**Diploma in Data Science & Machine Learning**  
+Red River College Polytechnic, Winnipeg, MB  
+_Aug 2024 – Apr 2026 (Expected)_  
+- GPA: 4.5 
+- Built cloud-hosted databases, dashboards, and predictive models  
+- Completed coursework in Python, statistics, and Power BI
+
+---
+
 ## 📜 Certifications
 
 ### 🌩️ Cloud & DevOps
 - **Microsoft Azure Fundamentals (AZ-900)** – 2024
 - **Microsoft Azure Security Fundamentals (SC-900)** - 2024
 - **Microsoft Azure AI Fundamentals (AI-900)** – 2025
-- **Microsoft Azure Data Fundamentals (DP-900)** - *In Progress* (Expected Start Dec 2025)
-- **AWS Academy Data Engineering** – *In Progress* (Expected Nov 2025)
+- **AWS Academy Data Engineering** – 2025
+- **Microsoft Azure Data Fundamentals (DP-900)** - *In Progress*
 
 ### 🤖 Artificial Intelligence & Data
 - **MongoDB Python Driver Associate Developer** – 2025
@@ -62,22 +85,12 @@ I'm a Data Science & Machine Learning student at Red River College with a passio
 
 | Category         | Tools & Technologies |
 |------------------|----------------------|
-| Programming      | Python, Java, Jupyter, Pandas, NumPy, SciPy, Scikit-learn |
-| Databases        | SQL (MariaDB), MongoDB (Atlas, Compass, Shell, PyMongo) |
+| Programming      | Python, Java, Jupyter, Pandas, NumPy, SciPy, Scikit-learn, Django ORM |
+| Databases        | SQL (MariaDB), MongoDB (Atlas, Compass, Shell, PyMongo), PostgreSQL (pgAdmin, Shell) |
 | Visualization    | Power BI, Tableau, Excel |
-| Cloud & DevOps   | Microsoft Azure, GitHub, Git |
+| Cloud & DevOps   | Microsoft Azure, GitHub, Git, Azure DevOps, MS Loop, Docker, VS Code |
+| Methodologies    | Agile/Scrum |
 | Certifications   | AZ-900, AI-900, SC-900, MongoDB, AWS Academy |
-
----
-
-## 🎓 Education
-
-**Diploma in Data Science & Machine Learning**  
-Red River College Polytechnic, Winnipeg, MB  
-_Aug 2024 – Apr 2026 (Expected)_  
-- GPA: 4.5 | A+ in first-year coursework  
-- Built cloud-hosted databases, dashboards, and predictive models  
-- Completed coursework in Python, statistics, and Power BI
 
 ---
 
