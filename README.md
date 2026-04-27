@@ -100,7 +100,7 @@ _Aug 2024 – Apr 2026 (Expected)_
 
 | Category         | Tools & Technologies |
 |------------------|----------------------|
-| Languages        | Python, (Pandas, NumPy, SciPy, Scikit-learn) Java, JavaScript, SQL |
+| Languages        | Python (Pandas, NumPy, SciPy, Scikit-learn), Java, JavaScript, SQL |
 | Frameworks       | Django ORM |
 | Databases        | PostgreSQL (pgAdmin, Shell), MariaDB, MongoDB (Atlas, Compass, Shell, PyMongo) |
 | Visualization    | Power BI, Tableau, Excel |
