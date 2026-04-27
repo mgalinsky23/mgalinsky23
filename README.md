@@ -33,7 +33,7 @@ _Jan 2026 – Apr 2026 (Expected)_
 
 **Diploma in Data Science & Machine Learning**  
 Red River College Polytechnic, Winnipeg, MB  
-_Aug 2024 – Apr 2026 (Expected)_  
+_Aug 2024 – Apr 2026 (Credential Awarded - June 2026)_  
 -	GPA: 4.5
 -	Built cloud-hosted databases using Microsoft Azure and MariaDB
 -	Developed structured data models in Power BI using DAX, hierarchies, and relationships
