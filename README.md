@@ -19,13 +19,13 @@ I am a data science and software development graduate with hands on experience i
 **Co-op Student**  
 CanAI Garage at Shared Services Canada, Winnipeg, MB - _Hybrid_
 _Jan 2026 – Apr 2026 (Expected)_  
-•	Designed and implemented a Django + PostgreSQL audit logging system, including data models, immutability rules, lifecycle event tracking, and admin configurable retention/disable settings; authored the technical proposal guiding its implementation.
-•	Improved the job execution workflow by fixing cancellation logic, ensuring backend processes terminate correctly, updating UI state handling, and resolving timeout related failures for large file executions.
-•	Integrated backend job result previews into the frontend and enhanced uploaded file previews by adding functional pagination controls and improving validation feedback.
-•	Increased system reliability by resolving issues related to archived rule handling, schema changes, error message accuracy, file validation failures, and inconsistent status displays across the application.
-•	Supported UI/UX consistency by updating list views, refining project creation/editing logic, and ensuring accurate execution timestamps.
-•	Managed code updates and branching using Azure DevOps and Git, maintaining clean version control practices and consistent development environments through Docker.
-•	Served as Scrum Master for two sprints, facilitating stand ups, coordinating asynchronous updates, and delivering sprint review presentations.
+- Designed and implemented a Django + PostgreSQL audit logging system, including data models, immutability rules, lifecycle event tracking, and admin configurable retention/disable settings; authored the technical proposal guiding its implementation.
+-	Improved the job execution workflow by fixing cancellation logic, ensuring backend processes terminate correctly, updating UI state handling, and resolving timeout related failures for large file executions.
+-	Integrated backend job result previews into the frontend and enhanced uploaded file previews by adding functional pagination controls and improving validation feedback.
+-	Increased system reliability by resolving issues related to archived rule handling, schema changes, error message accuracy, file validation failures, and inconsistent status displays across the application.
+-	Supported UI/UX consistency by updating list views, refining project creation/editing logic, and ensuring accurate execution timestamps.
+-	Managed code updates and branching using Azure DevOps and Git, maintaining clean version control practices and consistent development environments through Docker.
+-	Served as Scrum Master for two sprints, facilitating stand ups, coordinating asynchronous updates, and delivering sprint review presentations.
 
 ---
 
@@ -34,11 +34,11 @@ _Jan 2026 – Apr 2026 (Expected)_
 **Diploma in Data Science & Machine Learning**  
 Red River College Polytechnic, Winnipeg, MB  
 _Aug 2024 – Apr 2026 (Expected)_  
-•	GPA: 4.5
-•	Built cloud-hosted databases using Microsoft Azure and MariaDB
-•	Developed structured data models in Power BI using DAX, hierarchies, and relationships
-•	Completed statistics projects in Excel using pivot tables and advanced formulas
-•	Built data analysis scripts and CRUD operations using PyMongo
+-	GPA: 4.5
+-	Built cloud-hosted databases using Microsoft Azure and MariaDB
+-	Developed structured data models in Power BI using DAX, hierarchies, and relationships
+-	Completed statistics projects in Excel using pivot tables and advanced formulas
+-	Built data analysis scripts and CRUD operations using PyMongo
 
 ---
 
